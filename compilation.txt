@@ -1,0 +1,10 @@
+0. set the path of jdk.bin in order to use the command javac.
+1. locate the folder Chomp in cmd.
+2. use code : javac *.java
+3. use code : java GUIGAME
+4. ENJOY THE BEST GAME
+
+Alternatively ( and more simple)
+{
+Run the JAR file.
+}

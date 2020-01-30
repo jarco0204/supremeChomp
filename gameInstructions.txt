@@ -1,0 +1,6 @@
+1. Select Size of the board
+2. Press the play button, in order to determine who makes the first move.
+3. Play according to the label that shows whose turn is next.
+4. If the player is left with the top left square, he must press it, in order to show that He lost.
+
+
